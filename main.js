@@ -17,7 +17,6 @@ si elles atteignent 60, on réinitialise à 0 puis on incrémente la minute.
 
 */
 
-
 /* Mise en place de l'écouteurs d'évènements global*/
 document.addEventListener("DOMContentLoaded", function () {
 
